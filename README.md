@@ -1,4 +1,4 @@
-# Android device tree for TECNO TECNO KG5j (TECNO-KG5j)
+# Android device tree for TECNO TECNO KG5j (KG5j)
 
 ```
 #
